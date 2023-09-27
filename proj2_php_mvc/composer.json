@@ -1,0 +1,16 @@
+{
+    "name": "abreu/proj2_php_mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IsabellafAbreu",
+            "email": "isabella.f.abreu18@gmail.com"
+        }
+    ],
+    "require": {}
+}
